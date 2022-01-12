@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /Users/kikismine/Desktop/KrystalOS
+cd -
 nasm -f bin src/boot.asm -o bin/boot.bin
